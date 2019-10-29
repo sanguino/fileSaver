@@ -34,9 +34,9 @@
       "git add"
     ]
   },
-  "name": "node-express-es6-template",
+  "name": "node-express-savefile",
   "version": "1.0.0",
-  "description": "Node express es6 modules (using esm) templates",
+  "description": "Node express save file content api",
   "main": "start.js",
   "repository": {
     "type": "git",
