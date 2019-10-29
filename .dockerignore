@@ -1,0 +1,15 @@
+.git
+node_modules
+test
+.dockerignore
+.eslintignore
+.eslintrc.js
+.gitignore
+.npmignore
+.nycrc.json
+.prettierignore
+commitlint.config.js
+Dockerfile
+husky.config.js
+prettier.config.js
+README.md
